@@ -19,11 +19,11 @@ To view this website, follow this link https://jadyvella.github.io/Developers/
 * Bootstrap
 * Angular
 
-<!-- ## Contact Information
+## Contact Information
 * Email: felixouma379@gmail.com
 * Cell no.: +254792231660
-* Facebook: Jady Vella -->
+* Facebook: Jady Vella
 
-## Licence & Copyright
+<!-- ## Licence & Copyright
 - Licensed under [MIT LICENCE](LICENCE)
-Copyright (c) 2020 **Felix Ouma**
+Copyright (c) 2020 **Felix Ouma** -->
