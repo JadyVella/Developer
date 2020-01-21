@@ -33,7 +33,7 @@ export class DevelopersService {
 
   }
 
-  // updateUsername(username:string){
-  //   this.username = username;
-  // }
+  updateUsername(username:string){
+    this.username = username;
+  }
 }
