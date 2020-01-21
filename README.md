@@ -13,16 +13,16 @@ The person who created this file and styled it is Felix
 ## Setup Instructions
 To view this website, follow this link https://jadyvella.github.io/Developers/
 
-<!-- ## Technologies
+## Technologies
 * HTML
 * CSS
 * Bootstrap
-* Angular -->
+* Angular
 
-## Contact Information
+<!-- ## Contact Information
 * Email: felixouma379@gmail.com
 * Cell no.: +254792231660
-* Facebook: Jady Vella
+* Facebook: Jady Vella -->
 
 ## Licence & Copyright
 - Licensed under [MIT LICENCE](LICENCE)
