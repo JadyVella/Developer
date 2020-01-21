@@ -19,12 +19,12 @@ export class DevelopersService {
         this.username= 'JadyVella';
   }
 
-  getUser(){
-    // return this.http.get('https://api.github.com/users/'  + this.username + "?client_id=" + this.client_id + "&client_secret=" + this.client_secret);
-        return this.http.get('https://api.github.com/users/'  + this.username + "?access_token=" + this.auth_token);
+  // getUser(){
+  //   // return this.http.get('https://api.github.com/users/'  + this.username + "?client_id=" + this.client_id + "&client_secret=" + this.client_secret);
+  //       return this.http.get('https://api.github.com/users/'  + this.username + "?access_token=" + this.auth_token);
 
 
-  }
+  // }
 
   getRepos() {
     // return this.http.get("https://api.github.com/users/" + this.username + "/repos" + "?client_id=" + this.client_id + "&client_secret=" + this.client_secret
