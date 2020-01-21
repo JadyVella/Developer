@@ -24,6 +24,9 @@ To view this website, follow this link https://jadyvella.github.io/Developers/
 * Cell no.: +254792231660
 * Facebook: Jady Vella
 
+## Code Beat
+[![codebeat badge](https://codebeat.co/badges/77d71651-53a5-4eeb-a171-a142eaa67591)](https://codebeat.co/projects/github-com-jadyvella-developers-master)
+
 ## Licence & Copyright
 - Licensed under [MIT LICENCE](LICENCE)
 Copyright (c) 2020 **Felix Ouma**
