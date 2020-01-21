@@ -26,14 +26,14 @@ export class DevelopersService {
 
   }
 
-  // getRepos() {
-  //   // return this.http.get("https://api.github.com/users/" + this.username + "/repos" + "?client_id=" + this.client_id + "&client_secret=" + this.client_secret
-  //   // );
-  //      return this.http.get('https://api.github.com/users/'  + this.username + "/repos" + "?access_token=" + this.auth_token);
+  getRepos() {
+    // return this.http.get("https://api.github.com/users/" + this.username + "/repos" + "?client_id=" + this.client_id + "&client_secret=" + this.client_secret
+    // );
+       return this.http.get('https://api.github.com/users/'  + this.username + "/repos" + "?access_token=" + this.auth_token);
 
-  // }
-
-  updateUsername(username:string){
-    this.username = username;
   }
+
+  // updateUsername(username:string){
+  //   this.username = username;
+  // }
 }
