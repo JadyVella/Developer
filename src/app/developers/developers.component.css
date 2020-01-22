@@ -1,11 +1,11 @@
-* {
+.list-group, .panel-title,  .repos {
     background-color: black;
 }
 
-.stats, .list-group, .panel-title, .des{
-    color: ghostwhite;
+.description, .fork, .des, .panel-title {
+    color: papayawhip;
 }
 
-.description, .fork {
-    color: papayawhip;
+.stats{
+    color: black;
 }
